@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །སྒྲོལ་མའི་འགྲེལ་པ་ཕྱོགས་སྒྲིག་མེ་ཏོག་ཨུཏྤལའི་ཆུན་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་གྲུབ་དབང་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
+  sku: BEN-LB-007
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Bouquet of Utpalas:A Collection of Various Commentaries on Tara
+    bo: སྒྲོལ་མའི་འགྲེལ་པ་ཕྱོགས་སྒྲིག་མེ་ཏོག་ཨུཏྤལའི་ཆུན་པོ་ཞེས་བྱ་བ་བཞུགས་སོ།། །།
+  collection:
+    en: Benchen Library–  Book 7
+    bo: བེན་ཆེན་དཔེ་མཛོད་ཁང་།–  དེབ། ༧
+  author:
+    en: ''
+    bo: ༧སྐྱབས་རྗེ་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: ''
+    bo: བེན་ཆེན་སློབ་གཉེར་ཁང་།
+  sku: BEN-LB-007
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: BEN-LB-007.epub
+  description:
+    en: ''
+    bo: པོད་འདིའི་ནང་ལ་༧སྐྱབས་རྗེ་གྲུབ་དབང་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེས་མཛད་པའི་རྗེ་བཙུན་སྒྲོལ་མའི་བསྟོད་པའི་འགྲེལ་པ་ཁག་ཕྱོགས་བསྒྲིགས་ཞུས་ཡོད།
